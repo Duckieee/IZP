@@ -1,5 +1,5 @@
 # IZP - Základy programování (Introduction to Programming Systems)
-Univerzitní projekt do předmětu IZP.
+Univerzitní projekt do předmětu IZP v jazyku C.
 
 ## Iterativní výpočty
 Program provádí výpočet vzdálenosti a výšky měřeného objektu s pomoci funkcí určených k výpočtu tangens.
